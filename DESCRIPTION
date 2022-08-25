@@ -1,6 +1,6 @@
 Package: sierra.plot
 Title: Graphical Theming for Sierra Community College
-Version: 0.0.0.9000
+Version: 0.0.1.0000
 Authors@R: 
     person(given = "Jessica",
            family = "LaCourse",
