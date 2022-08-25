@@ -1,0 +1,26 @@
+Package: sierra.plot
+Title: Graphical Theming for Sierra Community College
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Jessica",
+           family = "LaCourse",
+           role = c("aut", "cre"),
+           email = "jlacourse@sierracollege.edu",
+           comment = c(ORCID = "0000-0003-2042-2588"))
+Description: Extension of ggplot graphics for Sierra College use. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports:
+  ggplot2,
+  here,
+  purrr,
+  scales,
+  tibble,
+  tidyverse,
+  yaml
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
